@@ -1,48 +1,31 @@
 # Descrição do projeto
 
-## Background do negócios
-
-A poluição é um grande problema na maioria das cidades, principalmente na índia onde tem algumas das cidades mais poluídas do mundo. A capital, Nova Delhi, é o coração da índia e também a mais poluída. Essa poluição acaba afetando a saúde e a qualidade de vida das famílias em Delhi.
-
-## Escopo
-Este trabalho tem o objetivo de analisar a poluição do ar no período de 5 anos utilizando 5 métricas
-
-## Equipe
-* O trabalho foi realizado em grupo de dois alunos do curso de Engenharia da computação do instituto infnet 
-  * Rafael Viana Cunha
-  * Luis Gomes
-	
-## Métricas
-* O conjunto de dados é composto por cinco sensores: 
-  * Anand Vihar,
-  * DTU,
-  * IGI Airport (T3),
-  * Dwarka Setor 8 e
-  * North Campus DU.
-* A Partir desses sensores vão ser utilizadas as seguintes métricas:
-  * PM10
-  * PM2.5
-  * Ozônio
-  * CO
-  * SO2
-* A timeline dos dados é de janeiro de 2016 até janeiro de 2021.
-
-## Plano
-* Analisando os dados inicial crus
-* Selecionar apenas dados úteis
-* Remover dados duplicados
-* Análise exploratória dos dados
-* Plotar os dados
-* Comprar a relação entre PM2.5 e PM10
-* Descobrir quais são os meses tiveram os 15 piores dias
-* Os maiores PM2.5 e PM10 por estação
-* Entender os níveis de qualidade do ar
-* Descobrir qual foi o efeito do lockdown nos níveis de poluição em Delhi?
 
 
-## Arquitetura
-* Dados
-  * Os dados estão no formato csv
-* Vamos utilizar um notebook em python para analisar o problema 
+      A poluição é um grande problema na maioria das cidades, principalmente na índia onde tem algumas das cidades mais poluídas do mundo. A capital, Nova Delhi, é o coração da índia e também a mais poluída. Essa poluição acaba afetando a saúde e a qualidade de vida das famílias em Delhi.
+
+      Este trabalho tem o objetivo de analisar a poluição do ar, em Delhi, no período de 5 anos utilizando 5 métricas, Material Particulado 2.5, Material Particulado 10, SO2, CO e Ozônio.
+
+      O projeto utiliza um notebook em python para a analisar o problema, que pode ser encontrado em code/dataPrep/scrpt.ipnyb
+
+    Configurando juptyer notebook: https://jupyter.readthedocs.io/en/latest/running.html
+
+* Estrutura de pastas
+  * Code: Esta pasta contém todo código do projeto
+    * DataPrep: Esta pasta hospeda o código para aquisição e compreensão de dados (análise exploratória)
+    * Model: Esta pasta contém código para modelagem e atividades relacionadas (como engenharia de recursos, avaliação de modelo, etc.)
+    * Operationalization: Esta pasta contém o código para implantação do modelo
+  * Data: Contém todos os datasets utilizados no projeto
+    * Raw: raw datasets
+    * Processed: datasets processados
+    * Modeling: lista de conjunto de features
+  * Docs: Pasta que hospeda todos as documentações do projeto
+    * DataReport: definições dos dados e das features
+    * Modeling: pasta para hospedar todos os documentos e relatórios relacionados à modelagem
+    * Project: pasta para hospedar documentos de projeto e relatórios
 
 
+
+
+
+  
