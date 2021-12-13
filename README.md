@@ -2,13 +2,13 @@
 
 
 
-      A poluição é um grande problema na maioria das cidades, principalmente na índia onde tem algumas das cidades mais poluídas do mundo. A capital, Nova Delhi, é o coração da índia e também a mais poluída. Essa poluição acaba afetando a saúde e a qualidade de vida das famílias em Delhi.
+A poluição é um grande problema na maioria das cidades, principalmente na índia onde tem algumas das cidades mais poluídas do mundo. A capital, Nova Delhi, é o coração da índia e também a mais poluída. Essa poluição acaba afetando a saúde e a qualidade de vida das famílias em Delhi.
 
-      Este trabalho tem o objetivo de analisar a poluição do ar, em Delhi, no período de 5 anos utilizando 5 métricas, Material Particulado 2.5, Material Particulado 10, SO2, CO e Ozônio.
+Este trabalho tem o objetivo de analisar a poluição do ar, em Delhi, no período de 5 anos utilizando 5 métricas, Material Particulado 2.5, Material Particulado 10, SO2, CO e Ozônio.
 
-      O projeto utiliza um notebook em python para a analisar o problema, que pode ser encontrado em code/dataPrep/scrpt.ipnyb
+O projeto utiliza um notebook em python para a analisar o problema, que pode ser encontrado em code/dataPrep/scrpt.ipnyb
 
-    Configurando juptyer notebook: https://jupyter.readthedocs.io/en/latest/running.html
+Configurando juptyer notebook: https://jupyter.readthedocs.io/en/latest/running.html
 
 * Estrutura de pastas
   * Code: Esta pasta contém todo código do projeto
