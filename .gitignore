@@ -131,5 +131,6 @@ dmypy.json
 code/Processed/
 .DS_Store
 Code/.DS_Store
-Data/Processed/air_pol_delhi.csv
+Data/Processed/*.csv
 Code/Certificates/*
+Data/Modeling/*.csv
