@@ -24,6 +24,10 @@ Configurando juptyer notebook: https://jupyter.readthedocs.io/en/latest/running.
     * Modeling: pasta para hospedar todos os documentos e relatórios relacionados à modelagem
     * Project: pasta para hospedar documentos de projeto e relatórios
 
+# Executando o projeto
+- O projeto está utilizando o python3
+- [Instalação do python](https://www.python.org/downloads/)
+
 
 
 
