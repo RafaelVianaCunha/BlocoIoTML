@@ -47,4 +47,16 @@ Este trabalho tem o objetivo de analisar a poluição do ar no período de 5 ano
 * AWS IoT para processamento dos dados dos sensores
 * Facebook Prophet para predição dos dados
 
+* Diagramas
+- Processando dados dos sensores
+![processando_dados drawio](https://user-images.githubusercontent.com/7775891/162655291-b796cc21-a4cd-4631-8109-3c0b3ab97598.png)
+
+- Analytics
+![analytics drawio](https://user-images.githubusercontent.com/7775891/162655315-d750e5a8-26ca-4ce8-b25b-d569dfbe260f.png)
+
+- Device shadow
+![shadow drawio](https://user-images.githubusercontent.com/7775891/162655332-d06409fb-46b8-4be1-a603-77c9159eec5d.png)
+
+
+
 
