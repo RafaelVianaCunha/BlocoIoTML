@@ -44,5 +44,7 @@ Este trabalho tem o objetivo de analisar a poluição do ar no período de 5 ano
 * Dados
   * Os dados estão no formato csv
 * Vamos utilizar um notebook em python para analisar o problema 
+* AWS IoT para processamento dos dados dos sensores
+* Facebook Prophet para predição dos dados
 
 
