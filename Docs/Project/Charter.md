@@ -33,11 +33,11 @@ Este trabalho tem o objetivo de analisar a poluição do ar no período de 5 ano
 * Remover dados duplicados
 * Análise exploratória dos dados
 * Plotar os dados
-* Comprar a relação entre PM2.5 e PM10
+* Comparar a relação entre PM2.5 e PM10
 * Descobrir quais são os meses tiveram os 15 piores dias
 * Os maiores PM2.5 e PM10 por estação
 * Entender os níveis de qualidade do ar
-* Descobrir qual foi o efeito do lockdown nos níveis de poluição em Delhi?
+* Utilização da ferramenta Facebook Prophet para predizer qual a qualidade do ar nos próximos 3 anos
 
 
 ## Arquitetura
